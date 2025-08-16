@@ -1,0 +1,19 @@
+/* Buttons */
+button.bg-indigo-500,
+button.bg-blue-500 {
+  background-color: #f97316 !important; /* Tailwind orange-500 */
+}
+
+button.bg-indigo-500:hover,
+button.bg-blue-500:hover {
+  background-color: #ea580c !important; /* Tailwind orange-600 */
+}
+
+/* Text */
+.text-indigo-500,
+.text-blue-500 {
+  color: #f97316 !important; /* orange-500 */
+
+
+}
+
